@@ -1,0 +1,190 @@
+
+header{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    place-items: center;
+}
+.logo{
+    padding-left: 30px;
+}
+.dash{
+    width: 35px;
+    height: 5px;
+    background-color:black;
+    margin: 6px 0;
+    margin-right: 100px;
+}
+
+span{
+    color: orangered;
+}
+.dash:hover{
+     background-color: orange;
+}
+.cl5{
+    color: white;
+}
+
+.a1{
+    color:red;
+    
+}
+.a1:hover{
+    color: black;
+}
+.cl1{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+
+}
+img{
+    background-color: black;
+    height:450px;
+    width:350px;
+}
+button{
+    background-color: black;
+    color:white;
+    border-radius: 10px;
+    font-size: 30px;
+    padding: 20px;
+    border-color: white;
+}
+.bt:hover{
+     background-color: white;
+     color:black ;
+}
+.d1{
+    height:700px;
+}
+.d1 > .d2{
+    background-color: brown;
+    height:30%;
+
+}
+.d1>.d3{
+    background-color: chartreuse;
+    height: 70%;
+}
+.cl3{
+    background-color: white;
+    border: 2px solid white;
+    height:230px;
+    width:250px;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+
+.cl4{
+    background-color: white;
+    border: 2px solid white;
+    height:230px;
+    width:250px;
+    border-radius: 10px;
+    padding-top: 10px;
+
+}
+.cl6{
+    background-color: white;
+    border: 2px solid white;
+    height:230px;
+    width:250px;
+    border-radius: 10px;
+    padding-top: 10px;
+    
+}
+.cl7{
+    background-color: white;
+    border: 2px solid white;
+    height:230px;
+    width:250px;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+.d2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 100px;
+    gap:30px;
+    
+    
+}
+.wks{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    gap:30px;
+    }
+
+
+.ic{
+    display:flex;
+    gap:20px;
+}
+
+
+.d3{
+    display: flex;
+    padding-top: 100px;
+    justify-content: center;
+    gap:50px;
+    
+    
+    
+}
+.d4{
+    margin-top: 50px;
+
+
+}
+.b1{
+    background-color: orange;
+    height: 80px;
+    width:300px;
+    border-radius: 50px;
+    border: 2px solid white;
+    margin-top:70px;
+}
+.b1:hover{
+    background-color: black;
+    color:white;
+}
+.in2{
+    display: flex;
+    gap:20px
+    
+}
+.in{
+    margin-top: 70px;
+    margin-right: 100px;
+    
+}
+.in1{
+    margin-top:30px;
+}
+.name{
+    height: 20px;
+}
+.email{
+    height: 20px;
+}
+.message{
+    height: 100px;
+    width: 350px;
+}
+.sen{
+    font-size: 25px;
+}
+.email{
+    color: orangered;
+}
+.email:hover{
+    color: black;
+}
+
+
+
